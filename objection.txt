@@ -1,0 +1,1 @@
+I tried create, delete and print c and they work and remove works but it does not go to the next line other than that append depends on the order of parameters, count sentence does not print out the text but sentences count is correct, number of occurance of a word is case sensitive and print the output at the end of previous line.
